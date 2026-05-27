@@ -11,12 +11,12 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="40%">
+      <td width="50%">
         <img align="left" src="https://i.pinimg.com/originals/03/ba/9b/03ba9bb409798666aa56507dcaa62f8a.gif" width="250px" style="border-radius: 20px; border: 5px solid #007FFF;"/>
       </td>
-      <td width="60%">
+      <td width="50%">
         <h3>🌟 Sobre Mim</h3>
-        <p>Desenvolvedor focado em criar sistemas robustos e eficientes. Apaixonado pelo <b>Backend</b> e em constante "guerra" amigável com o <b>Frontend</b>.</p>
+        <p>Desenvolvedor focado em criar sistemas robustos e eficientes. Apaixonado pelo <b>Backend</b> e odiado pelo <b>Frontend</b>.</p>
         <p>📍 Brasil | 💡 Disponível para contribuições em projetos</p>
         <img src="https://img.shields.io/badge/Status-Ativo-007FFF?style=for-the-badge&logoColor=white" />
       </td>
@@ -37,8 +37,8 @@
 ### 📊 Dashboard de Performance
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Calopsyto&show_icons=true&theme=transparent&title_color=007FFF&icon_color=007FFF&text_color=333" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calopsyto&layout=compact&theme=transparent&title_color=007FFF&text_color=333" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Calopsyto&show_icons=true&theme=transparent&title_color=007FFF&icon_color=007FFF&text_color=333&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calopsyto&layout=compact&theme=transparent&title_color=007FFF&text_color=333&hide_border=true" />
 </p>
 
 ---
@@ -52,9 +52,7 @@
 
 ### 🎵 No meu fone agora
 <p align="center">
-  <a href="https://open.spotify.com/user/31abc123seu_codigo_aqui">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31abc123seu_codigo_aqui&theme=minimal&bar_color=007fff&interact=true" />
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31abc123seu_codigo_aqui&theme=minimal&bar_color=007fff" />
 </p>
 
 ---
