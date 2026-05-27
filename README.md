@@ -1,60 +1,87 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00BFFF,50:007FFF,100:87CEFA&text=CALOPSYTO&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Backend%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00BFFF,50:007FFF,100:87CEFA&text=CALOPSYTO&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=JAVA%20•%20SPRING%20BOOT%20•%20BACKEND%20ENGINEER&descAlignY=58&descSize=20"
   />
 </p>
 
 <div align="center">
 
-# 🌌 CALOPSYTO DIGITAL CORE
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=007FFF&center=true&vCenter=true&width=850&lines=Building+robust+backend+systems...;High+performance+APIs+and+architectures;Java+%7C+Spring+Boot+%7C+Python;Clean+Code+%E2%80%A2+Scalable+Systems+%E2%80%A2+Modern+Development" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=007FFF&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%9A%80+Construindo+sistemas+robustos...;%E2%9A%A1+Transformando+ideias+em+c%C3%B3digo;%F0%9F%92%99+Java+%7C+Spring+Boot+%7C+Python;%F0%9F%94%A5+Criando+experi%C3%AAncias+modernas+e+perform%C3%A1ticas" />
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-007FFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILD-STABLE-87CEFA?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚡ SYSTEM INTERFACE
+# <img src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif" width="35"> SYSTEM INTERFACE
 
-|  |  |
-|---|---|
-| <img src="https://i.pinimg.com/originals/03/ba/9b/03ba9bb409798666aa56507dcaa62f8a.gif" width="320px"/> | ```yaml\nname: Calopsyto\nrole: Backend Developer\n\nspecialties:\n  - Java\n  - Spring Boot\n  - APIs REST\n  - SQL\n  - Docker\n\ncurrently_learning:\n  - Microsserviços\n  - Arquitetura escalável\n  - Cloud\n\nphilosophy:\n  "Código limpo > código complexo"\n``` |
+<table align="center">
+<tr>
+<td width="40%" align="center">
+
+<img src="https://i.pinimg.com/originals/03/ba/9b/03ba9bb409798666aa56507dcaa62f8a.gif" width="300px"/>
+
+</td>
+
+<td width="60%">
+
+```yaml
+name: "Calopsyto"
+
+role: "Backend Developer"
+
+stack:
+  - Java
+  - Spring Boot
+  - Python
+  - SQL
+  - Docker
+
+learning:
+  - Cloud
+  - Microsservices
+  - Scalable Architecture
+
+philosophy:
+  - "Clean code first"
+  - "Performance matters"
+  - "Simplicity scales"
+```
+
+</td>
+</tr>
+</table>
 
 ---
+
+# <img src="https://media.tenor.com/xVfFIHxAzW4AAAAi/gear.gif" width="30"> TECH ARSENAL
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-007FFF?style=for-the-badge&logoColor=white)
-![Build](https://img.shields.io/badge/BUILD-v2.6-00BFFF?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-BACKEND-87CEFA?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=java,spring,py,ts,react,nodejs,mysql,postgres,docker,git,linux,idea,vscode&theme=light" />
 
 </div>
 
 ---
 
-# 🛠️ TECH ARSENAL
+# <img src="https://media.tenor.com/qJ5evVs-_uUAAAAi/coding.gif" width="32"> GITHUB ANALYTICS
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=java,spring,py,ts,react,nodejs,mysql,postgres,docker,git,linux,vscode,idea&theme=light)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Calopsyto&show_icons=true&theme=transparent&hide_border=true&title_color=007FFF&icon_color=00BFFF&text_color=4F4F4F&ring_color=007FFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calopsyto&layout=compact&theme=transparent&hide_border=true&title_color=007FFF&text_color=4F4F4F"/>
 
 </div>
 
 ---
 
-# 📊 PERFORMANCE MATRIX
-
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Calopsyto&show_icons=true&theme=transparent&hide_border=true&title_color=007FFF&icon_color=00BFFF&text_color=4F4F4F&rank_icon=github&custom_title=⚡%20GitHub%20Analytics"/>
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calopsyto&layout=compact&theme=transparent&hide_border=true&title_color=007FFF&text_color=4F4F4F"/>
-
-</div>
-
----
-
-# 🌊 CONTRIBUTION FLOW
+# <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/network.gif" width="30"> CONTRIBUTION FLOW
 
 <div align="center">
 
@@ -64,45 +91,41 @@
 
 ---
 
-# 🧠 SYSTEM STATUS
+# <img src="https://media.tenor.com/oqyUP8olluoAAAAi/tech.gif" width="32"> ACHIEVEMENT MATRIX
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Calopsyto&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Calopsyto&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# 🎵 NOW PLAYING
+# <img src="https://media.tenor.com/kHcmsxlKHEAAAAAi/rock.gif" width="30"> DIGITAL PRESENCE
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=6cn40x3qpd3lov3hztm5jhptc&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=007fff&bar_color_cover=false"/>
+<a href="https://github.com/Calopsyto">
+  <img src="https://img.shields.io/badge/GitHub-007FFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-87CEFA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 CONNECT
+# <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="30"> VISITOR COUNTER
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-007FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Calopsyto)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-[![Email](https://img.shields.io/badge/Email-87CEFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
-</div>
-
----
-
-# 👁️ PROFILE VISITORS
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Calopsyto&style=for-the-badge&color=007FFF)
+<img src="https://komarev.com/ghpvc/?username=Calopsyto&style=for-the-badge&color=007FFF"/>
 
 </div>
 
@@ -110,6 +133,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:87CEFA,50:007FFF,100:00BFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:87CEFA,50:007FFF,100:00BFFF"/>
 
 </div>
