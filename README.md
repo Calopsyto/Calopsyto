@@ -59,7 +59,7 @@ philosophy:
 
 ---
 
-# <img src="https://media.tenor.com/xVfFIHxAzW4AAAAi/gear.gif" width="30"> TECH ARSENAL
+# <img src="https://media1.tenor.com/m/f6ts3WWJa-8AAAAC/funny-cats-funny.gif" width="55"> TECH ARSENAL
 
 <div align="center">
 
@@ -69,7 +69,7 @@ philosophy:
 
 ---
 
-# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRqdjF0ZTMyNzJkdTUzd3EzOHU5aDB1Ymlqam42azZmd2k1bXIxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzBLyjVBCtWgGPiXCJ/giphy.gif" width="32"> GITHUB ANALYTICS
+# <img src="https://media.tenor.com/QWemspX4xQgAAAAi/cat-eating-chips.gif" width="45"> GITHUB ANALYTICS
 
 <div align="center">
 
