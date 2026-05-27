@@ -81,7 +81,7 @@ philosophy:
 
 ---
 
-# <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/network.gif" width="30"> CONTRIBUTION FLOW
+# <img src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjkwNmFzeDl2M2N3aXJmeHRodXpmbjlrYmZ5bHBuYmpkOHB3NGY3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzBLyjVBCtWgGPiXCJ/giphy.gif)" width="30"> CONTRIBUTION FLOW
 
 <div align="center">
 
