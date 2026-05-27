@@ -101,7 +101,7 @@ philosophy:
 
 ---
 
-# <img src="https://media.tenor.com/kHcmsxlKHEAAAAAi/rock.gif" width="30"> DIGITAL PRESENCE
+# <img src="https://media1.tenor.com/m/gd3dkWF86i0AAAAC/ghost.gif" width="30"> DIGITAL PRESENCE
 
 <div align="center">
 
