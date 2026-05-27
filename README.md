@@ -18,7 +18,7 @@
 
 ---
 
-# <img src="https://media1.tenor.com/m/tG9tx98sqGgAAAAd/cat.gif" width="60"> SYSTEM INTERFACE
+# <img src="https://media1.tenor.com/m/ENvWZAC1oqsAAAAC/cat-tongue.gif" width="45"> SYSTEM INTERFACE
 
 <table align="center">
 <tr>
