@@ -18,7 +18,7 @@
 
 ---
 
-# <img src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif" width="35"> SYSTEM INTERFACE
+# <img src="[https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif](https://media1.tenor.com/m/tG9tx98sqGgAAAAd/cat.gif)" width="60"> SYSTEM INTERFACE
 
 <table align="center">
 <tr>
