@@ -11,13 +11,13 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
+      <td width="40%">
         <img align="left" src="https://i.pinimg.com/originals/03/ba/9b/03ba9bb409798666aa56507dcaa62f8a.gif" width="250px" style="border-radius: 20px; border: 5px solid #007FFF;"/>
       </td>
-      <td width="50%">
+      <td width="60%">
         <h3>🌟 Sobre Mim</h3>
-        <p>Desenvolvedor focado em criar sistemas robustos e eficientes. Apaixonado por arquitetura <b>Backend</b> e a fluidez do <b>Frontend</b> moderno.</p>
-        <p>📍 Brasil | 💡 Disponível para colaborações criativas</p>
+        <p>Desenvolvedor focado em criar sistemas robustos e eficientes. Apaixonado pelo <b>Backend</b> e em constante "guerra" amigável com o <b>Frontend</b>.</p>
+        <p>📍 Brasil | 💡 Disponível para contribuições em projetos</p>
         <img src="https://img.shields.io/badge/Status-Ativo-007FFF?style=for-the-badge&logoColor=white" />
       </td>
     </tr>
@@ -29,9 +29,7 @@
 ### 🛠️ Toolbox (Habilidades)
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,react,ts,mysql,postgres,docker,git&theme=light" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,py,react,ts,mysql,postgres,docker,git&theme=light" />
 </p>
 
 ---
@@ -39,23 +37,23 @@
 ### 📊 Dashboard de Performance
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Calopsyto&show_icons=true&theme=nord&hide_border=true&title_color=007FFF&icon_color=007FFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calopsyto&layout=compact&theme=nord&hide_border=true&title_color=007FFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Calopsyto&show_icons=true&theme=transparent&title_color=007FFF&icon_color=007FFF&text_color=333" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calopsyto&layout=compact&theme=transparent&title_color=007FFF&text_color=333" />
 </p>
 
 ---
 
 ### 🎮 Atividade Recente (Snake Game)
 <p align="center">
-  <img src="https://github.com/Calopsyto/Calopsyto/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats-snake.vercel.app/api/snake?github_user=Calopsyto&color_dot=%23e1e4e8&color_snake=%23007FFF&color_pixel=%23007FFF" alt="Snake animation" />
 </p>
 
 ---
 
 ### 🎵 No meu fone agora
 <p align="center">
-  <a href="https://open.spotify.com/user/6cn40x3qpd3lov3hztm5jhptc">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=ffffff&border_color=007fff&bar_color=007fff&bar_color_active=55acee" />
+  <a href="https://open.spotify.com/user/31abc123seu_codigo_aqui">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31abc123seu_codigo_aqui&theme=minimal&bar_color=007fff&interact=true" />
   </a>
 </p>
 
