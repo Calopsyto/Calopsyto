@@ -59,7 +59,7 @@ philosophy:
 
 ---
 
-# <img src="https://media1.tenor.com/m/f6ts3WWJa-8AAAAC/funny-cats-funny.gif" width="55"> TECH ARSENAL
+# <img src="https://media1.tenor.com/m/f6ts3WWJa-8AAAAC/funny-cats-funny.gif" width="45"> TECH ARSENAL
 
 <div align="center">
 
