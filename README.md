@@ -95,10 +95,9 @@ philosophy:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Calopsyto&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Calopsyto&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
-
 ---
 
 # <img src="https://media1.tenor.com/m/gd3dkWF86i0AAAAC/ghost.gif" width="45"> DIGITAL PRESENCE
