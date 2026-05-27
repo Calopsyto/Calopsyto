@@ -95,7 +95,9 @@ philosophy:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Calopsyto&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=4&rank=SSS,SS,S,A,B"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Calopsyto&layout=compact&theme=transparent&title_color=007FFF&text_color=4F4F4F" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Calopsyto&theme=nord_bright" />
 
 </div>
 ---
