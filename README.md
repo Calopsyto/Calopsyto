@@ -52,7 +52,7 @@
 
 ### 🎵 No meu fone agora
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31abc123seu_codigo_aqui&theme=minimal&bar_color=007fff" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=6cn40x3qpd3lov3hztm5jhptc&theme=minimal&bar_color=007fff" />
 </p>
 
 ---
