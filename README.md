@@ -91,7 +91,7 @@ philosophy:
 
 ---
 
-# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRqdjF0ZTMyNzJkdTUzd3EzOHU5aDB1Ymlqam42azZmd2k1bXIxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzBLyjVBCtWgGPiXCJ/giphy.gif" width="32"> ACHIEVEMENT MATRIX
+# <img src="https://media.tenor.com/PfUIAyxArwAAAAAi/potatoz-potato.gif" width="45"> ACHIEVEMENT MATRIX
 
 <div align="center">
 
