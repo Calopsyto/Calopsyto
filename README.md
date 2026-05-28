@@ -63,7 +63,7 @@ philosophy:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,py,ts,react,nodejs,mysql,postgres,docker,git,linux,idea,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,spring,py,ts,react,nodejs,mysql,git,linux,idea,vscode&theme=light" />
 
 </div>
 
