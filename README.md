@@ -73,11 +73,10 @@ philosophy:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Calopsyto&show_icons=true&theme=transparent&title_color=007FFF&icon_color=00BFFF&text_color=4F4F4F&hide_border=true"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hikarilucky79&theme=tokyonight&hide_border=true&background=0D1117&border=58A6FF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hikarilucky79&theme=github-compact&hide_border=true)
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Calopsyto&layout=compact&theme=transparent&title_color=007FFF&text_color=4F4F4F&hide_border=true&v=asdsad123"/>
-
-</div>
+</div> 
 
 ---
 
