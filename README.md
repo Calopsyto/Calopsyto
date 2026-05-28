@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 # <img src="https://media1.tenor.com/m/ENvWZAC1oqsAAAAC/cat-tongue.gif" width="45"> SYSTEM INTERFACE
 
 <table align="center">
@@ -57,7 +55,6 @@ philosophy:
 </tr>
 </table>
 
----
 
 # <img src="https://media1.tenor.com/m/f6ts3WWJa-8AAAAC/funny-cats-funny.gif" width="45"> TECH ARSENAL
 
@@ -67,7 +64,6 @@ philosophy:
 
 </div>
 
----
 
 # <img src="https://media.tenor.com/QWemspX4xQgAAAAi/cat-eating-chips.gif" width="45"> GITHUB ANALYTICS
 
@@ -78,9 +74,6 @@ philosophy:
 
 </div> 
 
----
-
-
 # <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="30"> VISITOR COUNTER
 
 <div align="center">
@@ -88,8 +81,6 @@ philosophy:
 <img src="https://komarev.com/ghpvc/?username=Calopsyto&style=for-the-badge&color=007FFF"/>
 
 </div>
-
----
 
 <div align="center">
 
