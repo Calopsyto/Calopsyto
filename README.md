@@ -73,7 +73,7 @@ philosophy:
 
  <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calopsyto&theme=transparent&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Calopsyto&theme=transparent&card_width=900)](https://git.io/streak-stats)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Calopsyto&theme=github-compact&hide_border=true)
 
 </div> 
