@@ -71,22 +71,12 @@ philosophy:
 
 # <img src="https://media.tenor.com/QWemspX4xQgAAAAi/cat-eating-chips.gif" width="45"> GITHUB ANALYTICS
 
-<div align="center">
+ <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hikarilucky79&theme=tokyonight&hide_border=true&background=0D1117&border=58A6FF)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hikarilucky79&theme=github-compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calopsyto&theme=tokyonight&hide_border=true&background=0D1117&border=58A6FF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Calopsyto&theme=github-compact&hide_border=true)
 
 </div> 
-
----
-
-# <img src="https://media.tenor.com/2pl7Sd16NVEAAAAi/smolverse-smol.gif" width="45"> CONTRIBUTION FLOW
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Calopsyto&bg_color=ffffff&color=007FFF&line=00BFFF&point=87CEFA&hide_border=true&area=true"/>
-
-</div>
 
 ---
 
