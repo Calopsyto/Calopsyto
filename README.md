@@ -75,7 +75,7 @@ philosophy:
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Calopsyto&show_icons=true&theme=transparent&title_color=007FFF&icon_color=00BFFF&text_color=4F4F4F&hide_border=true"/>
 
-<img height="180em" src="asdhttps://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Calopsyto&layout=compact&theme=transparent&title_color=007FFF&text_color=4F4F4F&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Calopsyto&layout=compact&theme=transparent&title_color=007FFF&text_color=4F4F4F&hide_border=true"/>
 
 </div>
 
