@@ -91,15 +91,6 @@ philosophy:
 
 ---
 
-# <img src="https://media.tenor.com/PfUIAyxArwAAAAAi/potatoz-potato.gif" width="45"> ACHIEVEMENT MATRIX
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Calopsyto&theme=nord_bright" />
-
-</div>
-
----
 
 # <img src="https://media1.tenor.com/m/gd3dkWF86i0AAAAC/ghost.gif" width="45"> DIGITAL PRESENCE
 
