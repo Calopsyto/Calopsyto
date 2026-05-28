@@ -92,26 +92,6 @@ philosophy:
 ---
 
 
-# <img src="https://media1.tenor.com/m/gd3dkWF86i0AAAAC/ghost.gif" width="45"> DIGITAL PRESENCE
-
-<div align="center">
-
-<a href="https://github.com/Calopsyto">
-  <img src="https://img.shields.io/badge/GitHub-007FFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-87CEFA?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 # <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="30"> VISITOR COUNTER
 
 <div align="center">
